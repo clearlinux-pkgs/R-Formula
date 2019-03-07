@@ -4,7 +4,7 @@
 #
 Name     : R-Formula
 Version  : 1.2.3
-Release  : 14
+Release  : 15
 URL      : https://cran.r-project.org/src/contrib/Formula_1.2-3.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/Formula_1.2-3.tar.gz
 Summary  : Extended Model Formulas
