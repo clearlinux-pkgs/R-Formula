@@ -1,6 +1,9 @@
 # This file contains recursive sources that require this package
 R-AER
 R-Hmisc
+R-RcmdrMisc
+R-earth
+R-haplo.stats
 R-lfe
 R-mi
 R-partykit
